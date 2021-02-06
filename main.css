@@ -1,0 +1,30 @@
+h1 {
+    border: black solid 1px;
+    padding: 20px; 
+    margin: 30px;
+}
+h1, h2, h3 {
+    font-family: Arial;
+    color: yellow
+}
+h2 {
+    font-size: 36px;
+    font-weight: lighter;
+    background-color: blue;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-bottom: 2px;
+}
+/* # for id, .for class */
+h2.three-d {
+    border: black 10px groove;
+    background-color: green
+}
+p.quotation {
+    font-style: italic;
+}
+p.quotation em {
+    font-style: normal;
+     
+}
